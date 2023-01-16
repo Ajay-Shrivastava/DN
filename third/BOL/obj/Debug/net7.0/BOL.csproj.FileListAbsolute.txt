@@ -1,0 +1,12 @@
+C:\Users\Ajju\Desktop\gitnet\DN\third\BOL\bin\Debug\net7.0\BOL.deps.json
+C:\Users\Ajju\Desktop\gitnet\DN\third\BOL\bin\Debug\net7.0\BOL.dll
+C:\Users\Ajju\Desktop\gitnet\DN\third\BOL\bin\Debug\net7.0\BOL.pdb
+C:\Users\Ajju\Desktop\gitnet\DN\third\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+C:\Users\Ajju\Desktop\gitnet\DN\third\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajju\Desktop\gitnet\DN\third\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+C:\Users\Ajju\Desktop\gitnet\DN\third\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+C:\Users\Ajju\Desktop\gitnet\DN\third\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+C:\Users\Ajju\Desktop\gitnet\DN\third\BOL\obj\Debug\net7.0\BOL.dll
+C:\Users\Ajju\Desktop\gitnet\DN\third\BOL\obj\Debug\net7.0\refint\BOL.dll
+C:\Users\Ajju\Desktop\gitnet\DN\third\BOL\obj\Debug\net7.0\BOL.pdb
+C:\Users\Ajju\Desktop\gitnet\DN\third\BOL\obj\Debug\net7.0\ref\BOL.dll

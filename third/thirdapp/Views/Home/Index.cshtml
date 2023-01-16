@@ -1,0 +1,26 @@
+﻿@using student;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="text-center">
+    @{
+       List<Student> stu = (List<Student>)ViewData["stu"];
+        <table border=1px>
+            @foreach (Student students in stu)
+            {
+                <tr>
+                    <td>@students.rollno</td>
+                    <td>@students.name</td>
+                    <td>@students.marks</td>
+                </tr>
+            }
+        </table>
+    }
+</div>

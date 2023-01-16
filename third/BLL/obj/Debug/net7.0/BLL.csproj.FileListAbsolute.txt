@@ -1,0 +1,17 @@
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\bin\Debug\net7.0\BLL.deps.json
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\bin\Debug\net7.0\BLL.dll
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\bin\Debug\net7.0\BLL.pdb
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\bin\Debug\net7.0\BOL.dll
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\bin\Debug\net7.0\DAL.dll
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\bin\Debug\net7.0\BOL.pdb
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\bin\Debug\net7.0\DAL.pdb
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\obj\Debug\net7.0\BLL.dll
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\obj\Debug\net7.0\refint\BLL.dll
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\obj\Debug\net7.0\BLL.pdb
+C:\Users\Ajju\Desktop\gitnet\DN\third\BLL\obj\Debug\net7.0\ref\BLL.dll
